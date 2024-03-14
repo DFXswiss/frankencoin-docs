@@ -1,3 +1,3 @@
-# DFX Docs
+# docs.frankencoin.app
 
-Documents for DFX.swiss
+Documents for frankencoin.app Community
