@@ -12,7 +12,7 @@ module.exports = {
   ],
 
   themeConfig: {
-    repo: "DFXswiss/docs",
+    repo: "DFXswiss/frankencoin-docs",
     logo: "/assets/logo.svg",
     editLinks: true,
     editLinkText: "Edit this page on Github",
@@ -26,20 +26,8 @@ module.exports = {
         link: "/en/",
       },
       {
-        text: "Deutsch",
-        link: "/de/",
-      },
-      {
-        text: "French",
-        link: "/fr/",
-      },
-      {
-        text: "Italian",
-        link: "/it/",
-      },
-      {
-        text: "DFX.swiss",
-        link: "https://dfx.swiss",
+        text: "Frankencoin.app",
+        link: "https://frankencoin.app",
       },
     ],
 
@@ -51,42 +39,10 @@ module.exports = {
         children: [
           "/en/disclaimer",
           "/en/tnc",
+          "/en/tou",
           "/en/privacy",
           "/en/imprint",
           "/en/faq",
-        ],
-      },
-      {
-        title: "Deutsch",
-        path: "/de/",
-        children: [
-          "/de/disclaimer",
-          "/de/tnc",
-          "/de/privacy",
-          "/de/imprint",
-          "/de/faq",
-        ],
-      },
-      {
-        title: "French",
-        path: "/fr/",
-        children: [
-          "/fr/disclaimer",
-          "/fr/tnc",
-          "/fr/privacy",
-          "/fr/imprint",
-          "/fr/faq",
-        ],
-      },
-      {
-        title: "Italian",
-        path: "/it/",
-        children: [
-          "/it/disclaimer",
-          "/it/tnc",
-          "/it/privacy",
-          "/it/imprint",
-          "/it/faq",
         ],
       },
     ],
