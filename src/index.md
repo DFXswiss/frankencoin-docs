@@ -1,7 +1,5 @@
-# DFX Documents
+# Frankencoin App Documents
 
----
+Welcome to the Frankencoin app document page. 
 
-
----
-<p style="text-align: center;">Bitcoiners by 💛</p>
+Extensions and corrections can be submitted at any time via GitHub PullRequest. 
