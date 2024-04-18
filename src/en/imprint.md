@@ -1,5 +1,7 @@
 # Imprint
 
+The Frankencoin.app website and the associated Frankencoin Wallet are provided by:
+
 DFX AG  
 Bahnhofstrasse 7  
 6300 Zug  
