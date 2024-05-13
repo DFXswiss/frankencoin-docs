@@ -23,10 +23,6 @@ module.exports = {
 
     nav: [
       {
-        text: "English",
-        link: "/en/",
-      },
-      {
         text: "Frankencoin.app",
         link: "https://frankencoin.app",
       },
@@ -34,18 +30,12 @@ module.exports = {
 
     sidebar: [
       { title: "Home", path: "/" },
-      {
-        title: "English",
-        path: "/en/",
-        children: [
-          "/en/disclaimer",
-          "/en/tnc",
-          "/en/tou",
-          "/en/privacy",
-          "/en/imprint",
-          "/en/faq",
-        ],
-      },
+      { title: "Disclaimer", path: "/disclaimer" },
+      { title: "Terms and conditions", path: "/tnc" },
+      { title: "Terms of use", path: "/tou" },
+      { title: "Privacy Policy", path: "/privacy" },
+      { title: "Imprint", path: "/imprint" },
+      { title: "FAQ", path: "/faq" },
     ],
   },
 
